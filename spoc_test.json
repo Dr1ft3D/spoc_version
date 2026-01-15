@@ -1,12 +1,10 @@
-
 {
-    "version": "2.0.0",
-    "changes": {
+  "version": "2.0.0",
+  "changes": [
     "Added whatever",
     "Fixed issue in nandos"
-  },
-  "filesAffected": {
+  ],
+  "filesAffected": [
     "prp-bridge/server/yeNan.lua"
-  }
+  ]
 }
-
